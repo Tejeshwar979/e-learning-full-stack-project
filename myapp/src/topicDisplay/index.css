@@ -1,0 +1,15 @@
+.video-div {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+}
+
+.loader-class {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}

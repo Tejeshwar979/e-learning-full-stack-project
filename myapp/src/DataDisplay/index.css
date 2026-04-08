@@ -1,0 +1,15 @@
+.div-underline-style {
+    text-decoration: none;
+    color: black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 50px;
+}
+
+.image-style {
+    height: 300px;
+    width: 300px;
+    border-radius: 30px;
+}

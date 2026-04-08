@@ -1,0 +1,49 @@
+.code-editor-style {
+    height: 100vh;
+    width: 100%;
+}
+
+.runButton {
+    display: inline-block;
+    height: 30px;
+    width: 100px;
+    border-radius: 6px;
+    background-color: #0d6efd;
+    border: 1px solid #0d6efd;
+    color: #ffffff;
+    font-size: 14px;
+    font-weight: 500;
+    cursor: pointer;
+    margin-right: 20px;
+    margin-top: 50px;
+}
+
+.clearButton {
+    display: inline-block;
+    height: 30px;
+    width: 100px;
+    border-radius: 6px;
+    background-color: transparent;
+    border: 1px solid #0d6efd;
+    color: black;
+    font-size: 14px;
+    font-weight: 500;
+    cursor: pointer;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 50px;
+}
+
+.Code-editor-main-cont {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+
+.button-div {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    margin: 50px;
+}
